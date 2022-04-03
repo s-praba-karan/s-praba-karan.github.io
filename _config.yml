@@ -16,11 +16,11 @@ author:
   github: s-praba-karan # github username
   twitter: s_prabakaran_ # twitter username
   facebook: facebook_username # facebook username
-  email: prabakaran4000@email.com # email adress
+  email: s_prabakaran@tutanota # email adress
   avatar: /assets/img/avatar.png # change with your own avatar
 
 # URL settings
-url: "https://karan-solves.com" #
+url: "https://s-prabakaran.com" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish
