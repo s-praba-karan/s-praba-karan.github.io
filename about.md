@@ -18,7 +18,7 @@ I am Prabakaran. I am a 18 years old student from India, who loves computers and
 
 **contact me ✨**
 
-- [mail](mailto:s_prabakaran@tutanota.com)
+- [mail](mailto:s-prabakaran@tuta.io)
 - <a href="https://www.github.com/s-praba-karan" target="_blank">github</a>
 
 ##### **this website was made on 06-03-2022**
